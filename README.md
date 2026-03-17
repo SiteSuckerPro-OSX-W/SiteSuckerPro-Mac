@@ -1,7 +1,7 @@
 # SiteSuckerPro – Automatic Website Downloader and Offline Mirror Creator
 
 <p align="center">
-  <img src="https://static.macupdate.com/products/11634/l/512x512bb-5ee62105-logo.png?v=1771429007" width="200" alt="SiteSuckerPro icon"/>
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/35/e5/c535e564-f4b3-70db-117b-0547270abf4c/Placeholder.mill/200x200bb-75.webp" width="200" alt="SiteSuckerPro icon"/>
 </p>
 
 <p align="center">
